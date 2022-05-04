@@ -204,6 +204,7 @@ main .sobre-nosotros{
  .servicios-ind p{
    font-weight: 300;
    text-align: center;
+   height: 50px;
  }
  footer{
    background: #414141;
